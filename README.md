@@ -1,9 +1,8 @@
-(Password to all protcted files: infected)
-
-
 # For Every Color in the Palette!
 
 The repository will contain all the code found on the [In-Depth MITRE ATT&CK: For Every Color in the Palette!](https://mitre.mr-constant.xyz/) blog.
+
+Password to all protcted files: (infected)
 
 <br />
 
